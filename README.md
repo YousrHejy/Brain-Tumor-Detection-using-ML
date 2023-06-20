@@ -11,7 +11,7 @@
 ### Introduction
 This dataset contains 7023 human brain MRI images classified into 4 classes: glioma - meningioma - no tumor and pituitary.
 no tumor class images were taken from the Br35H dataset, while SARTAJ dataset has a problem that glioma class images are not categorized correctly.
-![Processing](Images/pituitary_process.jpg)
+![Processing](Images/classes.jpg)
 
 ### project-steps
 *First: Image Processing*
@@ -32,12 +32,11 @@ no tumor class images were taken from the Br35H dataset, while SARTAJ dataset ha
 
 #### No Tumor Class Contours
 ![No Error](Images/no_tumor_withno_error.jpg)
-little error in detection
-![Error](Images/no_tumor_error.jpg)
+
 #### Meningioma Tumor
 ![Menin1](Images/meningioma1_no_error.jpg)
 ![Menin2](Images/meningioma2.jpg)
-![Menin3](Images/meningioma4.jpg)
+
 #### Pituitary Tumor
 ![Ptut](Images/pituitary_contour.jpg)
 ![Ptut2](Images/pituitary_contour.jpg)
@@ -107,7 +106,7 @@ pip install skimage
 
 ### Team
 
-First Semester - Biomedical Digital Signal Processing (SBE3110) class project created by:
+Eights Semester - Biomedical Digital Signal Processing (SBE3110) class project created by:
 
 | Team Members' Names                                  | Section | B.N. |
 | ---------------------------------------------------- | :-----: | :--: |
@@ -119,7 +118,7 @@ First Semester - Biomedical Digital Signal Processing (SBE3110) class project cr
 ### Submitted to:
 
 - Dr. Enas & Eng. Merna
-  All rights reserved © 2023 to Team 2 - Systems & Biomedical Engineering, Cairo University (Class 2024)
+  All rights reserved © 2023 to Team 6 - Systems & Biomedical Engineering, Cairo University (Class 2024)
 
     
 
