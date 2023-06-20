@@ -11,6 +11,7 @@
 ### Introduction
 This dataset contains 7023 human brain MRI images classified into 4 classes: glioma - meningioma - no tumor and pituitary.
 no tumor class images were taken from the Br35H dataset, while SARTAJ dataset has a problem that glioma class images are not categorized correctly.
+![Processing](Images/pituitary_process.jpg)
 
 ### project-steps
 *First: Image Processing*
@@ -20,6 +21,8 @@ no tumor class images were taken from the Br35H dataset, while SARTAJ dataset ha
     3. Apply Thresholding
     4. apply active contour for tumor shape extraction
 >
+![Processing](Images/pituitary_process.jpg)
+
 *Second: Feature Extraction*
 >
     1. Mean, Standard Deviation, Variance, Skewness, Entropy, RMS, Kurtios, HMI1, HMI2, HMI3, HMI4 of image
@@ -27,17 +30,18 @@ no tumor class images were taken from the Br35H dataset, while SARTAJ dataset ha
     3.  GLCM features like contrast, homogeneity, energy, correlation, dissimilarity 
 >
 
-1. No Tumor Contours
+#### No Tumor Class Contours
 ![No Error](Images/no_tumor_withno_error.jpg)
+little error in detection
 ![Error](Images/no_tumor_error.jpg)
-2. Meningioma Tumor
+#### Meningioma Tumor
 ![Menin1](Images/meningioma1_no_error.jpg)
 ![Menin2](Images/meningioma2.jpg)
 ![Menin3](Images/meningioma4.jpg)
-4. Pituitary Tumor
+#### Pituitary Tumor
 ![Ptut](Images/pituitary_contour.jpg)
 ![Ptut2](Images/pituitary_contour.jpg)
-6. Glioma Tumor
+#### Glioma Tumor
 ![Glioma with no error](Images/glioma_withno_error.jpg)
 ![Glioma with  error](Images/glioma_with_error.jpg)
 
