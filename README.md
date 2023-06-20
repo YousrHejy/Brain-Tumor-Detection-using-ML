@@ -108,7 +108,7 @@ First Semester - Biomedical Digital Signal Processing (SBE3110) class project cr
 | Team Members' Names                                  | Section | B.N. |
 | ---------------------------------------------------- | :-----: | :--: |
 | [Ahmed Hassan](https://github.com/ahmedhassan187)         |    1    |    |
-| [Habiba Fathalla](https://github.com/Habibafathalla)       |    1    |    |
+| [Habiba Fathalla](https://github.com/Habibafathalla)       |    1    | 27   |
 | [Rahma Abdelkader](https://github.com/rahmaabdelkader2) |    1    |    |
 | [Yousr Ashraf](https://github.com/YousrHejy)       |    2    |  54  |
 
