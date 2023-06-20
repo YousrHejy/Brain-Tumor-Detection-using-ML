@@ -13,7 +13,7 @@ This dataset contains 7023 human brain MRI images classified into 4 classes: gli
 no tumor class images were taken from the Br35H dataset, while SARTAJ dataset has a problem that glioma class images are not categorized correctly.
 ![Processing](Images/classes.jpg)
 
-### project-steps
+### project steps
 *First: Image Processing*
 >
     1. Cropping to focus on brain shape
