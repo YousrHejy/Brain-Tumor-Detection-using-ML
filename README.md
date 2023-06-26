@@ -110,7 +110,7 @@ Eights Semester - Biomedical Digital Signal Processing (SBE3110) class project c
 
 | Team Members' Names                                  | Section | B.N. |
 | ---------------------------------------------------- | :-----: | :--: |
-| [Ahmed Hassan](https://github.com/ahmedhassan187)         |    1    |    |
+| [Ahmed Hassan](https://github.com/ahmedhassan187)         |    1    |  4  |
 | [Habiba Fathalla](https://github.com/Habibafathalla)       |    1    | 27   |
 | [Rahma Abdelkader](https://github.com/rahmaabdelkader2) |    1    |  31  |
 | [Yousr Ashraf](https://github.com/YousrHejy)       |    2    |  54  |
